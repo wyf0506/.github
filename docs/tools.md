@@ -4,6 +4,10 @@
 
 入选标准（非硬性）：最近一年在有提交修改、星星数大于100。
 
+工具补充说明
+
+使用前请留意对应开源项目的许可证，遵守开源协议规范，禁止未经许可商用。
+
 ## 工具
 
 * [ScreenToGif](https://github.com/NickeManarin/ScreenToGif) - 截图为gif动图
