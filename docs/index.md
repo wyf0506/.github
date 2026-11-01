@@ -41,7 +41,6 @@ OpenHUTB倡导开源协作精神，提供完备的学习资源。参与者可参
 ## 3. 问题 <span id="questions"></span>
 
 - 如果参与过程中遇到任何问题，请参考 [提问技巧](./ask_question.md) 和 [注意事项](note.md) 或在对应项目的 [Issues页面](https://github.com/OpenHUTB/hutb/issues) 提出问题。
-  提交问题时尽可能附上运行环境、报错日志、复现步骤，方便维护人员快速定位故障。
 
 - 如需加入组织、添加项目或获取更高权限，请把GitHub用户名发送到邮箱 [open@hutb.edu.cn](mailto:open@hutb.edu.cn) 。
 
